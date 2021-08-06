@@ -1,6 +1,6 @@
-# Create-React-App
+# react-app-page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This basic app was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts
 
@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Details
 
-This is a basic react app, which I created in order to learn ReactJS. The app simply lets you add and delete several employee records. The App is deployed on GitHub Pages and is publicly available.
+This is a basic react app, which I created in order to learn ReactJS. This app lets you add and delete several employee records. The App is deployed on GitHub Pages and is publicly available.
