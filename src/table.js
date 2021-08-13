@@ -32,8 +32,8 @@ const TableBody = (props) => {
                 <td>{row.empname}</td>
                 <td>{row.age}</td>
                 <td>{row.gender}</td>
-                <td>{row.phone}</td>
                 <td>{row.salary}</td>
+                <td>{row.phone}</td>
                 <td> 
                     <button onClick={() => props.removeData(index)}>
                     Remove
