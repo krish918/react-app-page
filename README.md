@@ -1,6 +1,6 @@
 # react-app-page
 
-This basic app was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This basic app was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Available at http://krish918.github.io/react-app-page.
 
 ## Scripts
 
